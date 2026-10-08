@@ -1,0 +1,12 @@
+E:\repos\matchmind-ai\src\MatchMind.Core\bin\Debug\net10.0\MatchMind.Core.deps.json
+E:\repos\matchmind-ai\src\MatchMind.Core\bin\Debug\net10.0\MatchMind.Core.dll
+E:\repos\matchmind-ai\src\MatchMind.Core\bin\Debug\net10.0\MatchMind.Core.pdb
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.AssemblyInfoInputs.cache
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.AssemblyInfo.cs
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.csproj.CoreCompileInputs.cache
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.sourcelink.json
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.dll
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\refint\MatchMind.Core.dll
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\MatchMind.Core.pdb
+E:\repos\matchmind-ai\src\MatchMind.Core\obj\Debug\net10.0\ref\MatchMind.Core.dll

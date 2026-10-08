@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MatchMind.Api/MatchMind.Api.csproj" />
+    <Project Path="src/MatchMind.Core/MatchMind.Core.csproj" />
+    <Project Path="src/MatchMind.Infrastructure/MatchMind.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MatchMind.Tests/MatchMind.Tests.csproj" />
+  </Folder>
+</Solution>

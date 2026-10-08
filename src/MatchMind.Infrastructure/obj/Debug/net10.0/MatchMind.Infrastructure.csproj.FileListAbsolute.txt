@@ -1,0 +1,16 @@
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\bin\Debug\net10.0\MatchMind.Infrastructure.deps.json
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\bin\Debug\net10.0\MatchMind.Infrastructure.dll
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\bin\Debug\net10.0\MatchMind.Infrastructure.pdb
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\bin\Debug\net10.0\MatchMind.Core.dll
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\bin\Debug\net10.0\MatchMind.Core.pdb
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.csproj.AssemblyReference.cache
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.AssemblyInfoInputs.cache
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.AssemblyInfo.cs
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.csproj.CoreCompileInputs.cache
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.sourcelink.json
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMin.355EF432.Up2Date
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.dll
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\refint\MatchMind.Infrastructure.dll
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\MatchMind.Infrastructure.pdb
+E:\repos\matchmind-ai\src\MatchMind.Infrastructure\obj\Debug\net10.0\ref\MatchMind.Infrastructure.dll
